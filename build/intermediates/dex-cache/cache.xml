@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\d84923773de91b020bf6df491a98ada782c5eb60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_0f3ec0797086f86958181ecc43656f05b33a9249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\d6a119c1a3e5187d03b0c7bc1a4c47bc39a8d2d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2484ee9a66188155c9c792ff279d4a34c8e1d22e">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_71b6319a243bf645ddeca8e9bf140bc4e7f41c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\be44c2aa5b5857c21fb70cb6568280c81018535d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_fccf9b56699ce27909c52982e6b08da052f9d20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\8db77085360592306dd83d61ef50149142d83cb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d74bfb5306aee8dbfa746b48842f87c01c64f6ac">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_5037270a1366d511f11de2b26e8364b66234f027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\71348aaabc46f2c54bbc9e6528480b1c6013afbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_f8b6201a777f0ac274ed7df99c31f0166b2b3869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\12da54a5bffc163fd8abe1a5ef73971f26baaa13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_547b3845f823016f6bd4f64c66b2ebd72e33fdf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\d7050f640afbc31164039543f21b384c0e99e629\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2018b324dbe57d9a1304a0b6a97ece59de258da6">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_050a114d65c590eac1e639001770f74369f950d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_aafd032f8e759eba6df179e7dda9acb008542121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\36f6fe6531ffe1c6a152614aec0d2af2848081c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_2454996b36ea8827595e983c52cccdae1283f824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\1d08132bca044eb903f9e6a209707c878aaa3321\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_475600f70a80ec41e4d76aa20a78d2540cc65668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\bb7a0ccbf4fe8370752902b7d4d6836e1f2dfe13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98c1221c29c1a146edc6be342039cc242f9773c5">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_60650129bdfe3307468bf28c9618e6cf1c1ac770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.android\build-cache\eee307d11dd2950d6401db34cfa9e53750402242\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="700b670ed3f9cf4b240081993c6004817866985a">
+        <dex dex="E:\AndroidProjects\W3SchoolsTutorials\app\build\intermediates\pre-dexed\debug\classes_4db7d1d89097dc4164a8930dac1e85cfa2fe8efe.jar" />
+    </item>
+
+</items>
